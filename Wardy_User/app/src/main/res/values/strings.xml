@@ -9,6 +9,7 @@
     <string name="action_sign_in_short">Sign in</string>
     <string name="telefono">Teléfono</string>
     <string name="user">Usuario</string>
+    <string name="cancel">Cancelar</string>
     <string name="contraseña">Contraseña</string>
     <string name="login_reminder">Olvidé mi contraseña</string>
     <string name="welcome">Iniciar sesión</string>
